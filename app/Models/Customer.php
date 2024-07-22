@@ -19,4 +19,5 @@ class Customer extends Model
         'datetime_register',
         'datetime_update',
     ];
+    
 }

@@ -1,0 +1,35 @@
+
+* {
+    font-family: Helvetica, sans-serif;
+}
+
+body {
+    background-color: #ecf5ef;
+}
+.container {
+    /* background-color: blue; */
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+tbody {
+    font-size: 14;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: #ebeeec;  
+}
+
+tbody tr:nth-child(even) {
+    background-color: #e7e7e7;
+}
+
+th,
+td {
+    padding: 20px;
+}
+
+.group-button {
+    margin-top: 30;
+}
